@@ -1,0 +1,23 @@
+{
+    "student": [
+        {
+            "Name": "Brixel Vince G. Daco",
+            "Age": "23",
+            "Favorite_Quote": "As long as I live, there are infinite chances"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "1901102527@student.buksu.edu.ph"
+        }
+    ]
+    "hobbies": [
+        {
+            "Sports": "Basketball",
+            "Games": "Call of Duty",
+            "Instrument": "Guitar and Organ Piano"
+        }
+    ]
+}

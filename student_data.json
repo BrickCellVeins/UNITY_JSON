@@ -3,6 +3,8 @@
         {
             "Name": "Brixel Vince G. Daco",
             "Age": "23",
+		  	"Date of Birth": "August 4, 1999",
+		  	"Nickname": "Brixho",
             "Favorite_Quote": "I can do all things, with God the almighty"
         }
     ],
@@ -10,14 +12,9 @@
         {
             "Class_Section": "T90",
             "Section_Code": "CC 131",
-            "BukSU_Email": "1901102527@student.buksu.edu.ph"
-        }
-    ],
-    "hobbies": [
-        {
-            "Sports": "Basketball",
-            "Games": "Call of Duty",
-            "Instrument": "Guitar and Organ Piano"
+            "BukSU_Email": "1901102527@student.buksu.edu.ph",
+		  	"Sports": "Basketball, Volleyball, Badminton",
+		  	"Ethnicity": "Talaandig"
         }
     ]
 }
